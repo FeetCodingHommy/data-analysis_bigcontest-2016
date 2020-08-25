@@ -1,0 +1,1 @@
+* 빅콘 2016 데이터를 제공한 [한화생명](https://namu.wiki/w/%ED%95%9C%ED%99%94%EC%83%9D%EB%AA%85e%EC%8A%A4%ED%8F%AC%EC%B8%A0/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C) 측에서 문제 삼을 수 있다고 판단하여 일촌공개.
